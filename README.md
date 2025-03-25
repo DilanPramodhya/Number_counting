@@ -19,7 +19,7 @@ The **Number Counting App** is a simple web-based project that dynamically anima
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/number-counting-app.git
+   git clone https://github.com/DilanPramodhya/Number_counting.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -74,5 +74,5 @@ counters.forEach((counter) => {
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name](https://github.com/your-username)
+(https://github.com/DilanPramodhya)
 

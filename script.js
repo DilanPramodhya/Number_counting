@@ -6,7 +6,7 @@ counters.forEach((counter) => {
   const final_count = counter.dataset.count;
   console.log(final_count);
 
-  const counting = setInterval(updateCounting, 500);
+  const counting = setInterval(updateCounting, 5);
 
   function updateCounting() {
     if (initial_count < 1000) {
